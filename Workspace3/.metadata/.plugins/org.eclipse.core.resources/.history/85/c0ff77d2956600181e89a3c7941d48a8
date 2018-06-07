@@ -1,9 +1,0 @@
-package br.com.cpweb.domain;
-
-import javax.persistence.Entity;
-
-@SuppressWarnings("serial")
-@Entity
-public class Pessoa extends GenericDomain {
-
-}
